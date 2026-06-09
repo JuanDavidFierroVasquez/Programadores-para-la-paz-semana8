@@ -1,0 +1,10 @@
+uname -a es util para saber el entrno exacto antes de compilar o instalar sotware critico.
+
+whoami es eencial para auditar que usuario esta realizado acciones especialmente cuando usas sudo o cambias o cambias de usuaio con su.
+
+¿por qué es útil conocer la información del sistema al administrar un servidor?
+
+es util por Compatibilidad de software, Saber la arquitectura (x86_64, ARM) y versión del kernel ayuda a instalar paquetes correctos.
+Diagnóstico de fallos, Conocer la versión exacta del sistema permite buscar soluciones documentadas o parches específicos.
+Seguridad, Detectar si el kernel está desactualizado ayuda a prevenir vulnerabilidades conocidas.
+Automatización, Identificar qué usuario ejecuta procesos (con whoami) evita errores de permisos en scripts.

@@ -1,0 +1,3 @@
+echo "1 Evitar conectarse a redes WiFi públicas sin VPN" >> buenas-practicas.txt
+echo "2. Realizar copias de seguridad periódicas" >> buenas-practicas.txt
+echo "3. Verificar firmas digitales de software descargado" >> buenas-practicas.txt

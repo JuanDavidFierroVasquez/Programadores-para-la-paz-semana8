@@ -1,0 +1,11 @@
+5 prácticas de seguridad para plataformas comunitarias (Moderación)
+
+1. Implementar filtros automáticos de contenido malicioso o spam antes de publicar.
+
+2. Establecer un sistema de reputación o puntuación para usuarios nuevos o sospechosos.
+
+3. Revisar periódicamente los reportes de la comunidad y tomar acciones rápidas.
+
+4. Limitar la velocidad de publicaciones o mensajes por usuario.
+
+5. Mantener un registro público anonimizado de acciones de moderación para transparencia.
